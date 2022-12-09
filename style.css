@@ -30,3 +30,34 @@
     display:inline-block;
     position: relative;
 }
+/* //////// */
+.about_img{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    gap: 10px;
+}
+.img{
+    width: 500px;
+    height: 300px;
+}
+.about_text{
+    width: 600px;
+    height: auto;
+    margin-top: -40px;
+}
+.about_text p{
+    padding-top: 10px;
+}
+.about_text h4{
+    padding-top: 10px;
+}
+.but{
+    width: 150px;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 20px;
+    background: black;
+    color:white;
+}
