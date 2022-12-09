@@ -61,3 +61,86 @@
     background: black;
     color:white;
 }
+/* ////// */
+.oyna-black{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background: black;
+    color: white;
+    margin-top: 60px;
+}
+.aboutt{
+    left: 70px;
+    top: 40px;
+    width: 300px;
+    margin-bottom: 30px;
+}
+.aboutt-hr{
+    margin-top: 10px;
+    background: white;
+    width: 45px;
+    height: 3px;
+}
+.aboutt p{
+    margin-top: 20px;
+}
+.aboutt hr{
+    margin-top: 20px;
+}
+.links{
+    margin: 55px 0px 0px 130px ;
+    width: 200px;
+    color: white;
+    margin-bottom: 30px;
+}
+.links-hr{
+    margin-top: 10px;
+    background: white;
+    width: 45px;
+    height: 2px;
+}
+.links p{
+    top: 5px;
+    margin-top: 5px;
+}
+.quick{
+    margin: 55px 0px 0px 50px ;
+    width: 320px;
+    color: white;
+    margin-bottom: 30px;
+}
+.quick-hr{
+    margin-top: 10px;
+    background: white;
+    width: 45px;
+    height: 2px;
+}
+.you{
+    margin-top: 15px;
+    width: 320px;
+    height: 45px;
+    border-radius: 5px 5px 5px 5px;
+    border: 3px solid white;
+    color: white;
+    background: black;
+}
+.type{
+    margin-top: 15px;
+    width: 320px;
+    height: 80px;
+    border-radius: 5px 5px 5px 5px;
+    border: 3px solid white;
+    color: white;
+    background: black;
+}
+.butt{
+    border-radius: 5px 5px 5px 5px;
+    font-size: 15px;
+    margin-left: 4px;
+    margin-top: 20px;
+    width: 320px;
+    height: 45px;
+    background: white;
+    color: black;
+}
